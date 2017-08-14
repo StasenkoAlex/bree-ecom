@@ -1,0 +1,7 @@
+# Игнор-лист файлов проекта
+pages
+slick
+*.pdf
+less/*
+node_modules
+prepros.cfg
